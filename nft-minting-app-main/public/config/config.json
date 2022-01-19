@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC4D98DD37843539B5B496cfea5D8E7Fa2EE3E340",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc4d98dd37843539b5b496cfea5d8e7fa2ee3e340",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Cacti Punkz",
+  "SYMBOL": "CPNFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cactipunkzzzzzz",
+  "SHOW_BACKGROUND": true
+}
